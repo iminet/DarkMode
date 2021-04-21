@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##############################################################################
 # DARKMODE POWERSHELL SCRIPT
 # The easiest way to set dark/light theme or switch between of those
