@@ -5,7 +5,7 @@ The easiest way to set dark/light theme or switch between of those
 ## Prerequisites:
 - Windows operating system
 - PowerShell 5.0 or later
-- 
+
 # License
 Creative Commons (CC BY 4.0)
 
