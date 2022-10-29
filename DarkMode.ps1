@@ -2,7 +2,7 @@
 # DARKMODE POWERSHELL SCRIPT
 # The easiest way to set dark/light theme or switch between of those
 # Prerequisites: PowerShell 5.0 or later
-# Version: 1.1
+# Version: 1.2
 # Author: Iminetsoft
 # GitHub: https://github.com/iminet/DarkMode
 # License: CreativeCommons (CC BY 4.0)
